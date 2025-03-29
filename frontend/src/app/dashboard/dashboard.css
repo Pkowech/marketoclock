@@ -1,0 +1,19 @@
+sidebar {
+  height: 100%;
+  overflow-y: auto;
+}
+
+.sidebar a {
+  color: white;
+}
+
+.sidebar a:hover {
+  color: white;
+  background-color: #4a5568;
+}
+
+.sidebar a.active {
+  color: white;
+  background-color: #2d3748;
+}
+

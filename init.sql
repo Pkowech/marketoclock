@@ -1,0 +1,14 @@
+\i schema/01_users.sql
+\i schema/02_products.sql
+\i schema/03_product_images.sql
+\i schema/04_posts.sql
+\i schema/05_post_media.sql
+\i schema/06_comments.sql
+\i schema/07_likes.sql
+\i schema/08_shares.sql
+\i schema/09_orders.sql
+\i schema/10_order_items.sql
+\i schema/11_reports.sql
+\i schema/12_promotions.sql
+\i schema/13_product_requests.sql
+\i schema/14_indexes.sql

@@ -1,0 +1,20 @@
+.profile-layout {
+  max-width: 1200px;
+  min-height: 100vh;
+}
+
+.profile-nav {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.profile-nav a {
+  color: #4a5568;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.profile-nav a:hover {
+  color: #2d3748;
+}
